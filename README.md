@@ -3,7 +3,8 @@
 > Em desenvolvimento ⚠️
 
 
-O projeto foi idealizado em 2022, teve como principal público os atletas surdos na modalidade de futsal, foi utilizado no primeiro protótipo o microcontrolador arduino uno, no segundo protótipo utilizamos o arduino nano e um módulo de RF 433mHz, fizemos alguns testes de distância (20m) e funcionalidade simultânea em 5 arduinos ao mesmo tempo, obtemos êxito.
+O projeto foi idealizado em 2022, a ideia é uma pulseira que vibraria quando tivesse algum tipo de falta ou penalidade durante a partida, seria controlada por um controle remoto que ficaria na posse do juíz principal.
+Teve como principal público os atletas surdos na modalidade de futsal, foi utilizado no primeiro protótipo o microcontrolador arduino uno, no segundo protótipo utilizamos o arduino nano e um módulo de RF 433mHz, fizemos alguns testes de distância (20m) e funcionalidade simultânea em 5 arduinos ao mesmo tempo, obtemos êxito.
 
 
 
